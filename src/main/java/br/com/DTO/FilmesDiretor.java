@@ -1,8 +1,7 @@
 package br.com.DTO;
 
 public class FilmesDiretor {
-
-
+     
 	String nome;
 	String nascimento;
 	String nomeFilme;

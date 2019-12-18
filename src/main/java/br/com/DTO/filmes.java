@@ -1,9 +1,9 @@
 package br.com.DTO;
 
 public class filmes {
+     
 	String nome;
 	String ano;
-	
 	
 	public String getNome() {
 		return nome;

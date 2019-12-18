@@ -2,7 +2,6 @@ package br.com.DTO;
 
 public class diretores {
 
-	
 	String nome;
 	String nascimento;
 	

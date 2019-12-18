@@ -4,12 +4,9 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-
 public class screenGoogle {
 
-
 	private static WebElement element = null;
-	
 	
 	public static WebElement txtPesquisar (WebDriver driver){
 		element = driver.findElement(By.name("q"));
@@ -25,7 +22,6 @@ public class screenGoogle {
 		element = driver.findElement(By.id("pass_id"));
 		return element;
 	}
-	
 
 	public static WebElement selectInstituicaoLogin (WebDriver driver){
 		element = driver.findElement(By.id("institutionId"));

@@ -9,11 +9,10 @@ import ExtentCucumberFormatter.*;
 	@Component
 	public class ReportUtils {
 
-
-
 		private ReportUtils() {
+		     
 		}
-
+		
 		static StringBuilder formatStepName(String step) {
 			StringBuilder builder = new StringBuilder();
 

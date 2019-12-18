@@ -9,7 +9,6 @@ import java.util.Scanner;
 import br.com.DTO.FilmesDiretor;
 import br.com.DTO.diretores;
 
-
 /**
  * Hello world!
  *
